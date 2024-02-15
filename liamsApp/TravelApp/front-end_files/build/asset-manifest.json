@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afc8caaa.css",
+    "main.js": "/static/js/main.c5e97fd6.js",
+    "static/media/zfs8fg4vwo7t460sqdc3evhxeszk_1615785404_shutterstock_500765143.jpg": "/static/media/zfs8fg4vwo7t460sqdc3evhxeszk_1615785404_shutterstock_500765143.e1fb00507c633b319f4a.jpg",
+    "static/media/matusadona.jpg": "/static/media/matusadona.50137aa5a428bc7b3080.jpg",
+    "static/media/Chinhoyi.jpg": "/static/media/Chinhoyi.5891d58978b7934f4f9a.jpg",
+    "static/media/gZimAreaView.jpg": "/static/media/gZimAreaView.7c3873187aee86439958.jpg",
+    "static/media/Zimbabwe--Harare-623181522332891_crop_710_0.jpg": "/static/media/Zimbabwe--Harare-623181522332891_crop_710_0.4c2d68b8526fc4699984.jpg",
+    "static/media/the-great-zimbabwe-ruins-outside-masvingo-in-zimbabwe.jpg": "/static/media/the-great-zimbabwe-ruins-outside-masvingo-in-zimbabwe.4b08b615fe09adbace6e.jpg",
+    "static/media/lake kariba.jpg": "/static/media/lake kariba.4fcdbb7865db0a701773.jpg",
+    "static/media/fallsvic.jpg": "/static/media/fallsvic.6fb1ca30b51c30c265dc.jpg",
+    "static/media/Zimbabwe--Matobo-National-Park-623221522332979_crop_710_0.jpg": "/static/media/Zimbabwe--Matobo-National-Park-623221522332979_crop_710_0.9e9c2a9f3fc2e62f7e90.jpg",
+    "static/media/wildLife.jpg": "/static/media/wildLife.f770543fb01d47001a34.jpg",
+    "static/media/falls areaView.jpg": "/static/media/falls areaView.c70d50656085d580f108.jpg",
+    "static/media/vicfallsBridge.jpg": "/static/media/vicfallsBridge.0753f3afdbea89a438e7.jpg",
+    "static/media/Zimbabwe--Lake-Kariba-623201522332891_crop_710_0.jpg": "/static/media/Zimbabwe--Lake-Kariba-623201522332891_crop_710_0.f8cb6f058c8ac8e0fe93.jpg",
+    "index.html": "/index.html",
+    "main.afc8caaa.css.map": "/static/css/main.afc8caaa.css.map",
+    "main.c5e97fd6.js.map": "/static/js/main.c5e97fd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc8caaa.css",
+    "static/js/main.c5e97fd6.js"
+  ]
+}

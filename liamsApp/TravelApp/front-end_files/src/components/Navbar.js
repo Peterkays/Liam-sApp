@@ -1,13 +1,20 @@
 import { Component } from "react";
 import "./NavbarStyles.css";
 import { MenuItems } from "./MenuItems";
+import SignupForm from "./SignUpForm";
+import "./SignUpStyles.css";
 import { Link } from "react-router-dom";
 
 class Navbar extends Component {
-  state = { clicked: false };
+  state = { clicked: false, formOpen: false };
   handleClick = () => {
     this.setState({ clicked: !this.state.clicked });
   };
+
+  toggleForm = () => {
+    this.setState({ formOpen: !this.state.formOpen }); // This is where the toggleForm function is defined
+  };
+
   render() {
     return (
       <nav className="NavbarItems">
@@ -29,8 +36,10 @@ class Navbar extends Component {
               </li>
             );
           })}
-          <button>Sign Up</button>
+
+          <button onClick={this.toggleForm}>Sign Up</button>
         </ul>
+        {this.state.formOpen && <SignupForm onClose={this.toggleForm} />}
       </nav>
     );
   }
