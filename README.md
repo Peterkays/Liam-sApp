@@ -1,4 +1,5 @@
 # Travel and Tour Web App
+![appLogo](https://github.com/Peterkays/Liam-sApp/assets/122306180/a2d93ccd-b0d1-4abc-9b2c-9004258a226d)
 
 ## Introduction
 
@@ -15,18 +16,18 @@ To get started with the Travel and Tour Web App, follow these steps:
 1. Clone the repository: `git clone https://github.com/Peterkays/Liam-sApp.git`
 2. Navigate to the project directory: `cd Liam-sApp`
 3. Install dependencies: `npm install`
-4. Install 'pip install -r requirements.txt'
-5. Install Django: 'pip install django'
+4. Install `pip install -r requirements.txt`
+5. Install Django: `pip install django`
 6. Set Up a Web Server (Nginx and uWSGI): 
-   'sudo apt-get update'
-   'sudo apt-get install nginx'
-   'pip install uwsgi'
+   `sudo apt-get update`
+   `sudo apt-get install nginx`
+   `pip install uwsgi`
 
 ## Usage
 
 Once installed, you can run the app locally by executing the following command:
 
-'python manage.py runserver'
+`python manage.py runserver`
 
 
 This will start the development server and open the app in your default web browser.
@@ -57,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Frontend**: React
 - **Backend**: Python, Django
 - **Database**: SQLite
 - **Deployment**: Heroku
